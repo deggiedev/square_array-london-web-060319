@@ -3,3 +3,4 @@ def square_array(array)
   math.sqrt(numbers)
   numbers_squared += 1
 end
+end
